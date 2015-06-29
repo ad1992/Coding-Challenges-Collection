@@ -7,9 +7,11 @@ import java.util.StringTokenizer;
 
 /**
  * @author Aakansha Doshi
+ * 
+ * 
  *
  */
-public class SubsetGCD {
+public class CheckGCD {
 
 	public static void main(String[] args) throws NumberFormatException, IOException {
 		// TODO Auto-generated method stub
